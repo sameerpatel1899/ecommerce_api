@@ -1,0 +1,13 @@
+env/
+*.pyc
+__pycache__/
+db.sqlite3
+*.log
+*.sqlite3
+*.zip
+*.tar
+*.rar
+*.exe
+*.DS_Store
+.vscode/
+.idea/
